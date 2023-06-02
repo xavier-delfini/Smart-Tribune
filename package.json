@@ -19,8 +19,11 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "encore": "^0.0.30-beta",
-        "puppeteer": "^20.5.0"
-    },
-    "type": "module"
+        "puppeteer": "^20.5.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-script": "^2.0.5",
+        "react-scripts": "^5.0.1",
+        "type": "module"
+    }
 }
