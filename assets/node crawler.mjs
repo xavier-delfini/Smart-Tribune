@@ -17,6 +17,4 @@ const url = "https://smart-tribune-sandbox.ovh/subdomain/hackathon-laplateforme-
   {
     console.log('site not found');
   }
-
-  console.log('The title of this blog post is "%s".', fullTitle);
 })
