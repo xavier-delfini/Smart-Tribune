@@ -1,0 +1,30 @@
+.clair
+{
+    background-color: rgb(230, 230, 230);
+}
+
+.fonce
+{
+    background-color: rgb(181, 181, 181);
+}
+
+table
+{
+    width: 50vw;
+}
+
+tr
+{
+    height: 30px;
+}
+
+tr > *
+{
+    padding: 10px;
+}
+
+#text
+{
+    height: 20px;
+    width: 20vw;
+}
